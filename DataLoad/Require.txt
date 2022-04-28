@@ -1,0 +1,10 @@
+certifi=*#000#*=2021.10.8
+cycler=*#000#*=0.10.0
+fonttools=*#000#*=4.25.0
+mkl-fft=*#000#*=1.3.0
+mkl-service=*#000#*=2.4.0
+munkres=*#000#*=1.1.4
+olefile=*#000#*=0.46
+torch=*#000#*=1.9.1
+torchaudio=*#000#*=0.9.0a0+a85b239
+torchvision=*#000#*=0.10.1
